@@ -1,0 +1,29 @@
+{
+  "name": "ucla_13-friend_finder-node_and_express_servers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeyamato/UCLA_13-Friend_Finder-Node_and_Express_Servers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeyamato/UCLA_13-Friend_Finder-Node_and_Express_Servers/issues"
+  },
+  "homepage": "https://github.com/mikeyamato/UCLA_13-Friend_Finder-Node_and_Express_Servers#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "standard": "^10.0.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
